@@ -7,6 +7,12 @@ body {
   background-color: rgb(26, 46, 46);
 }
 
+body h4 {
+  text-align: center;
+  color: white;
+  font-family: cursive;
+}
+
 .container {
   text-align: center;
 }
